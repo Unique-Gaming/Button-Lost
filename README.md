@@ -12,3 +12,9 @@ Some parts are not anchored so anchore Them
 Data store Service 
 
 Cash , Levels 
+
+# About
+
+I don't know if i will work more on this game but you can add more things to games 
+
+if i will have time for this project i will surely add more things and I will fix bugs too 
